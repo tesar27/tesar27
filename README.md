@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yerbolat
-- 👀 I’m interested in VueJS and Python
-- 🌱 I’m currently improving my VueJS, NodeJS and Python skills.
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently improving my React, React native and NodeJS skills.
 - 💞️ I’m looking to collaborate on different project
 - 📫 How to reach me tesar.public@gmail.com
 
