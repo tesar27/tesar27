@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yerbolat
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently improving my React, React native and NodeJS skills.
+- 👀 I use stacks like Nextjs, React, Node, Appwrite, Coolify, Python
 - 💞️ I’m looking to collaborate on different project
 - 📫 How to reach me tesar.public@gmail.com
 
